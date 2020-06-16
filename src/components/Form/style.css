@@ -1,0 +1,29 @@
+input {
+  padding: 7px 15px;
+  margin: 10px;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+
+}
+input:focus {
+  border: 1px solid #719;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-salary {
+  width: 100%;
+}
+.form-salary input {
+  width: 100%;
+}
+
+.form-calculations {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
