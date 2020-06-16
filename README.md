@@ -3,4 +3,4 @@
 
 ## Resultado Final
 ![resultado final animado](https://github.com/carloscarrinho/react-salarios/blob/master/public/img/output.gif)
-![resultado final estatico](https://github.com/carloscarrinho/react-salarios/blob/master/public/img/output.png)
+![resultado final estatico](https://github.com/carloscarrinho/react-salarios/blob/master/public/img/output_new.png)
